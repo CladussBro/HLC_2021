@@ -1,0 +1,4 @@
+MYSQLI_BOTH: Busca el número de la fila
+MYSQLI_NUM: Obtiene una fila como un array asociativo
+MYSQLI_ASSOC: Crea un arreglo con los atributos de ambas
+Obtiene una fila de resultados como un array asociativo, numérico, o ambos
